@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning C#, C++ and Data Structure**
 
-- 💬 Ask me about **C++ , C#, Angularn**
+- 💬 Ask me about **C++ , C#, Angular**
 
 - 📫 How to reach me **singhpraki2@gmail.com**
 
